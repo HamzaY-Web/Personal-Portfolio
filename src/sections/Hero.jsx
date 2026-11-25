@@ -132,7 +132,7 @@ export const Hero = () => {
               <div className="relative max-w-md mx-auto">
                 <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-primary/30 via-transparent to-primary/10 blur-2xl animate-pulse"></div>
                 <div className="relative rounded-3xl glass p-2 glow-border">
-                  <img src="/profile.png" 
+                  <img src="/profile.jpeg" 
                   alt="Hamza Yousef" 
                   className="w-full aspect-4/5 object-cover rounded-2xl"/>
 

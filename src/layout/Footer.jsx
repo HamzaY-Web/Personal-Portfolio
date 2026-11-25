@@ -27,7 +27,7 @@ export const Footer = () => {
               Hamza<span className="text-primary">.</span>
             </a>
             <p className="text-sm text-muted-foreground mt-2">
-              {`© ${new Date().getFullYear()} Hamza Yousef. All rights reserved`}
+              {`© ${new Date().getFullYear()} Hamza Mousa. All rights reserved`}
             </p>
           </div>
 

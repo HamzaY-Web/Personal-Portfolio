@@ -94,7 +94,7 @@ export const Hero = () => {
                 </span>
               </h1> 
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I'm Hamza Yousef — a junior Web Developer specializing in
+                Hi, I'm Hamza Mousa — a junior Web Developer specializing in
                 React, Next.js, and TypeScript. I build scalable, performant web
                 applications that users love.
               </p>
@@ -103,7 +103,7 @@ export const Hero = () => {
             {/* CTAs */}
             <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300">
               <Button href='#contact' size='lg'>Contact Me <ArrowRight className="w-5 h-5" /> </Button>
-              <AnimatedBorderButton href="/assets/Hamza-Yousef-CV.pdf" download='Hamza-CV.pdf'>
+              <AnimatedBorderButton href="/assets/Hamza-Mousa-CV.pdf" download='Hamza-CV.pdf'>
                 <Download className="w-5 h-5"/> 
                 Download CV
               </AnimatedBorderButton>
@@ -133,7 +133,7 @@ export const Hero = () => {
                 <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-primary/30 via-transparent to-primary/10 blur-2xl animate-pulse"></div>
                 <div className="relative rounded-3xl glass p-2 glow-border">
                   <img src="/profile.jpeg" 
-                  alt="Hamza Yousef" 
+                  alt="Hamza Mousa" 
                   className="w-full aspect-4/5 object-cover rounded-2xl"/>
 
                   {/* Floating Badge */}
